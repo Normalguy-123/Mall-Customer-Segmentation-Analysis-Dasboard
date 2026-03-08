@@ -79,4 +79,5 @@ This analysis answers the following questions:
 This project demonstrates how customer data can be transformed into actionable business insights. It highlights the importance of segmentation in understanding customer behavior and improving strategic decision-making.
 
 Author
+
 Isah Kareem Entry-Level-Data Analyst.
