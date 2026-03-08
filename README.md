@@ -26,9 +26,9 @@ The dataset contains 200 customers and includes the following variables:
 * Customer Segment
 # Key Performance Indicators (KPIs)
 
-* Total Customers:** 200
-*  Average Age:** 38.9 years
-*  Average Annual Income:** 60.6
+* Total Customers: 200
+*  Average Age: 38.9 years
+*  Average Annual Income: 60.6
   
 *  Customer Segmentation by Spending Behavior:
 
@@ -78,4 +78,5 @@ This analysis answers the following questions:
 
 This project demonstrates how customer data can be transformed into actionable business insights. It highlights the importance of segmentation in understanding customer behavior and improving strategic decision-making.
 
---
+Author
+Isah Kareem Entry-Level-Data Analyst.
