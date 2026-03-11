@@ -30,7 +30,7 @@ The dataset contains 200 customers and includes the following variables:
 *  Average Age: 38.9 years
 *  Average Annual Income: 60.6
   
-*  Customer Segmentation by Spending Behavior:
+#  Customer Segmentation by Spending Behavior:
 
   * High Spenders: 29.88%
   * Medium Spenders: 37.60%
